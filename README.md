@@ -1,6 +1,6 @@
 "# Willsgift"
 
-- 🔭 I am Willaims Gift.
+- 🔭 I am Willams Gift.
 
 - 🌱 A Full Stack Web Developer 
 
